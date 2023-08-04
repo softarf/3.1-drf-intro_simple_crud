@@ -91,6 +91,9 @@ target/
 
 # Папки с лекциями и тестами к ним.
 *Lecture*/
+
+# Test requests
+requests.http
 #                               Конец добавлений.
 
 # IPython
